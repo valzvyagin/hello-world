@@ -1,4 +1,4 @@
 # hello-world
 Simple repository
 
-Something something words test test
+Edited the repository! This README pretty much says nothing. But hey, gotta start somewhere. 
